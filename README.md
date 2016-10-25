@@ -26,7 +26,7 @@
     - Team Project
     - Open Source (Pyramid)
 - Didn't Fall Asleep Yet? Great, Let's Do Some Hands-on
-  - Check the "tutorial.txt" file in the main directory of the repo and follow along
+  - Stay tuned ...
   
   -----
   
