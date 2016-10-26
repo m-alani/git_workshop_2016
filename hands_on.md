@@ -9,9 +9,9 @@ Make sure to replace [NAME] with your full name, and [EMAIL] with the email addr
 
 ```sh
   git config --global user.name "[NAME]"
-git config --global user.email "[EMAIL]"
-git config --global color.ui auto
-git config --global push.default simple
+  git config --global user.email "[EMAIL]"
+  git config --global color.ui auto
+  git config --global push.default simple
 ```
 
 _You can probably understand what the first 2 lines do, but what about the last 2?_
