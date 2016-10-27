@@ -36,6 +36,7 @@
 - [Code School - Interactive 15-minute tutorial, very useful for beginners](https://try.github.io/levels/1/challenges/1)
 - [Youtube - Derek Banas - Git Video Tutorials Playlist](https://www.youtube.com/playlist?list=PLGLfVvz_LVvQHO1PfyscjIPkNJjgHsLyH)
 - [Markdown Tutorial - Interactive tutorial to learn Markdown (the standard used to format readme files)](http://www.markdowntutorial.com/)  
+- [GitHub's Student Package - Plenty of freebies and must-haves if you are a student!](https://education.github.com)  
   
 Don't forget that there are plenty of GUI tools that you can use to make your life easier. However, we strongly recommend that you use Git from the command line for a while in order to fully understand the workflow (employers like that too).  
 
