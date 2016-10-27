@@ -141,7 +141,7 @@ Now that we synced our repo with upstream "original" repo, let's inspect what ha
 ```
 
 _This command lists the branches you have in your local repo. Notice that the branch with "*" before it is the current active branch._  
-_Did you notice that there is an "upstream/master" branch? Where did that come from? Let's talk about it_  
+_Did you notice that you still have only a "master" branch even though the previous command said that there is an "upstream/master" branch. What's that about? Where did that branch go? Why is it hidden? Let's talk about it_  
 
 Make sure that we are on our local "master" branch:
 
